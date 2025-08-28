@@ -35,8 +35,10 @@
  ## SKETCH
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
- ## OUTPUT
- 
+ ## OUTPUT:
+![EXP-2 Drawing v2_page-0001 (1)](https://github.com/user-attachments/assets/88e6c2a6-df0b-4209-86f7-5f3bc484913e)
+
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
